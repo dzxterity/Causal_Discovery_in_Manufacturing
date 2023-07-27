@@ -1,4 +1,16 @@
 # Causal Discovery in Manufacturing
-AIRI summer school 2023
 
-Methods and code taken from (https://github.com/airi-industrial-ai/fddbenchmark) and (https://github.com/ethanfetaya/NRI) under MIT License
+***AIRI summer school 2023***
+
+*Superviser from AIRI: Aleksandr Kovalenko* (https://github.com/KovalenkoAE)
+
+*Students:*
++ Voronina Maria
++ Dolgov Aleksandr
++ Zaytsev Daniil
++ Zhyravlev Dmitry
+
+Methods and code taken from:
++ https://github.com/airi-industrial-ai/fddbenchmark
++ https://github.com/ethanfetaya/NRI
+all repo under MIT license
