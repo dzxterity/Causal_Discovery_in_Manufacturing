@@ -13,5 +13,6 @@
 Methods and code taken from:
 + https://github.com/airi-industrial-ai/fddbenchmark
 + https://github.com/ethanfetaya/NRI
++ https://github.com/kevinsbello/dagma
 
 all repo under MIT license
