@@ -1,0 +1,19 @@
+Epoch: 0000 nll_train: 7265334487.2233266830 kl_train: -9.5236892219 mse_train: 25052.8750410020 acc_train: nan nll_val: 81624.8814603365 kl_val: -9.9050605480 mse_val: 0.2814651028 time: 190.1536s
+Epoch: 0001 nll_train: 161526.5058396465 kl_train: -8.8980946685 mse_train: 0.5569879358 acc_train: nan nll_val: 79333.9269831731 kl_val: -9.9061791897 mse_val: 0.2735652583 time: 193.9350s
+Epoch: 0002 nll_train: 107866.5726010101 kl_train: -8.8980859988 mse_train: 0.3719536843 acc_train: nan nll_val: 77931.7824519231 kl_val: -9.9061863147 mse_val: 0.2687302753 time: 191.9903s
+Epoch: 0003 nll_train: 105682.2840909091 kl_train: -8.8980870006 mse_train: 0.3644216618 acc_train: nan nll_val: 77366.4448617788 kl_val: -9.9061937516 mse_val: 0.2667808358 time: 186.6156s
+Epoch: 0004 nll_train: 104648.7069128788 kl_train: -8.8980887635 mse_train: 0.3608575999 acc_train: nan nll_val: 76686.4694260817 kl_val: -9.9062017019 mse_val: 0.2644361011 time: 187.2591s
+Epoch: 0005 nll_train: 103821.4469696970 kl_train: -8.8980918460 mse_train: 0.3580049806 acc_train: nan nll_val: 76195.0413912260 kl_val: -9.9062102391 mse_val: 0.2627415170 time: 182.6165s
+Epoch: 0006 nll_train: 103020.1086647727 kl_train: -8.8980957282 mse_train: 0.3552417463 acc_train: nan nll_val: 75851.9516977163 kl_val: -9.9062204269 mse_val: 0.2615584516 time: 196.8078s
+Epoch: 0007 nll_train: 102404.7974273990 kl_train: -8.8981001016 mse_train: 0.3531199844 acc_train: nan nll_val: 75473.4995492788 kl_val: -9.9062315776 mse_val: 0.2602534414 time: 210.3749s
+Epoch: 0008 nll_train: 101912.0804135101 kl_train: -8.8981053227 mse_train: 0.3514209612 acc_train: nan nll_val: 75275.6224459135 kl_val: -9.9062433701 mse_val: 0.2595711032 time: 175.2933s
+Epoch: 0009 nll_train: 101589.9213226010 kl_train: -8.8981122200 mse_train: 0.3503100628 acc_train: nan nll_val: 75077.3481820913 kl_val: -9.9062575194 mse_val: 0.2588874036 time: 243.7696s
+Epoch: 0010 nll_train: 101363.5481376263 kl_train: -8.8981208416 mse_train: 0.3495294699 acc_train: nan nll_val: 74956.5679086538 kl_val: -9.9062740344 mse_val: 0.2584709201 time: 225.2562s
+Epoch: 0011 nll_train: 101137.9637784091 kl_train: -8.8981312646 mse_train: 0.3487515895 acc_train: nan nll_val: 74790.7018479567 kl_val: -9.9062910080 mse_val: 0.2578989643 time: 203.2716s
+Epoch: 0012 nll_train: 100977.0466382576 kl_train: -8.8981424004 mse_train: 0.3481967037 acc_train: nan nll_val: 74754.1234975962 kl_val: -9.9063103199 mse_val: 0.2577728337 time: 178.1323s
+Epoch: 0013 nll_train: 100777.0420612374 kl_train: -8.8981537578 mse_train: 0.3475070349 acc_train: nan nll_val: 74520.8474308894 kl_val: -9.9063319426 mse_val: 0.2569684274 time: 177.1045s
+Epoch: 0014 nll_train: 100571.5165719697 kl_train: -8.8981671478 mse_train: 0.3467983269 acc_train: nan nll_val: 74350.6059194712 kl_val: -9.9063552526 mse_val: 0.2563813945 time: 180.2444s
+Epoch: 0015 nll_train: 100294.2395044192 kl_train: -8.8981815203 mse_train: 0.3458421980 acc_train: nan nll_val: 74121.7725360577 kl_val: -9.9063787369 mse_val: 0.2555923089 time: 185.4523s
+Epoch: 0018 nll_train: 99662.1037720960 kl_train: -8.8982262178 mse_train: 0.3436624215 acc_train: nan nll_val: 73745.4679987981 kl_val: -9.9064626969 mse_val: 0.2542947107 time: 155.4483s
+Epoch: 0019 nll_train: 99455.4663036616 kl_train: -8.8982418234 mse_train: 0.3429498721 acc_train: nan nll_val: 73388.6691706731 kl_val: -9.9064930311 mse_val: 0.2530643748 time: 155.6517s
+Best Epoch: 0019
